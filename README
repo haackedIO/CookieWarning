@@ -1,4 +1,4 @@
-Cookiewarning is a small script designed to display a warning to users about the use of cookies on a site in order to comply with the EU privacy directive (see http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx ).
+Cookiewarning is a small script designed to display a warning to users about the use of cookies on a site in order to comply with the EU privacy directive (see https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/ ).
 
 To use:
 Please a link to the javascript file in the body of your HTML document as per the example test files (i.e. <script language="JavaScript" type="text/javascript" src="js/cookiewarning.js"></script> ) 
